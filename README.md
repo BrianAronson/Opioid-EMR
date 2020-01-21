@@ -16,7 +16,7 @@ This repository was built only for personal use, so it requires a few steps for 
 Afterwards, users are advised to run all scripts within the "Code" directory in the order of their numerical prefixes. Scripts without a numerical prefix should be run after scripts with numerical prefixes are run. 
 
 # Details
-Below is a brief overview of each script by meaning and folder.
+Below is a brief overview of each script in the `Code` folder.
 
    - **00 - Master.R**
        - Run all key steps for wrangling the data.
