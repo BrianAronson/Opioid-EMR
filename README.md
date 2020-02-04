@@ -1,4 +1,4 @@
-# Opioid Prescribing in EMRs
+# Opioid Prescribing Bias
 
 <p align="center">
   <img src="./Images/Figure.png" height="500">
